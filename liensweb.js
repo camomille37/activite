@@ -1,4 +1,5 @@
-// ceci est un un test
+
+// ceci est un un test de camomille 37
 
 /////////////////////////////////////////////
 // Exécute un appel AJAX GET
